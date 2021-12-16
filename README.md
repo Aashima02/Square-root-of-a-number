@@ -29,7 +29,8 @@ root(x)
 ```
 
 ## OUTPUT:
-![square root of two number](output.png)
+![square root of two number](output.png)![output](https://user-images.githubusercontent.com/93427086/146313418-5259c163-1f6c-4057-ac6b-2f6bf5817c15.png)
+
 
 
 ## RESULT:
