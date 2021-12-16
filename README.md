@@ -29,7 +29,7 @@ root(x)
 ```
 
 ## OUTPUT:
-![square root of two number](output.png)
+![square root of two number](./output.png)
 
 
 
